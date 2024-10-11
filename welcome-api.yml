@@ -14,6 +14,6 @@ management:
     web:
       exposure:
         include: '*'
-message: welcome to microservice world
+message: welcome to microservice world in this port
 server:
   port: 9091
