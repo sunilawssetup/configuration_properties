@@ -12,3 +12,4 @@ management:
     web:
       exposure:
         include: '*'
+message: good mornig
